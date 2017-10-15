@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_main_samples">
+        <item>Simple List</item>
+        <item>Temperature</item>
+        <item>Service fetch List</item>
+    </string-array>
+</resources>
